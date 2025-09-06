@@ -43,16 +43,34 @@ Currently, I’m working on an **autonomous tank project** using **STM microcont
 
 ---
 
-### 🛠️ Languages and Tools
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🛠️ Languages and Tools  
+
+<p>
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html">
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  </a>
+  <a href="https://www.raspberrypi.org/">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
 
 ---
+
 
 ⚡ Fun fact: I love combining hardware and software to create real-world solutions!
 
