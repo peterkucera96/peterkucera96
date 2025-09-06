@@ -38,8 +38,8 @@ Currently, I’m working on an **autonomous tank project** using **STM microcont
 ---
 
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/...)  
-- Email: [tvoj.email@example.com](mailto:tvoj.email@example.com)  
+- [LinkedIn]([https://www.linkedin.com/in/...](https://sk.linkedin.com/in/peter-kučera-a18519271?trk=people-guest_people_search-card))  
+- Email: [peter44488@gmail.com](mailto:tvoj.email@example.com)  
 
 ---
 
