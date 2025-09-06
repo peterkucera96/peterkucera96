@@ -1,4 +1,4 @@
-## 👋 Hi, i'm 
+## 👋 Hi, i'm Peter Kučera.
 
 <!--
 **peterkucera96/peterkucera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
