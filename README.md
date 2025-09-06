@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-
-I’m interested in **Embedded Development**, **Software Engineering**, and **C/C++ programming**.  
-Currently, I’m working on an **autonomous tank project** using **STM microcontrollers** and **Raspberry Pi** 🚀  
+I’m interested in **Embedded Development**, **Software Engineering**, **C/C++ programming**, and **Artificial Intelligence**.  
+Currently, I’m working on an **autonomous tank project** using **STM microcontrollers** and **Raspberry Pi**, where I plan to integrate **AI for autonomous navigation and object detection** 🤖🚀  
 
 ---
 
@@ -27,14 +26,15 @@ Currently, I’m working on an **autonomous tank project** using **STM microcont
 - STM32 microcontrollers and ARM Cortex-M programming  
 - Raspberry Pi hardware/software integration  
 - Networking and communication protocols  
+- Basics of AI for robotics (computer vision, decision making)  
 
 ---
 
 ### 🔭 Projects
-- Autonomous tank controlled with STM32 + Raspberry Pi  
+- Autonomous tank controlled with STM32 + Raspberry Pi + AI  
 - Experiments with embedded systems and robotics  
 - Networking & IoT mini-projects  
-
+ 
 ---
 
 ### 📫 How to reach me  
