@@ -1,46 +1,34 @@
-## 👋 Hi, i'm Peter Kučera.
+## 👋 Hi, I'm Peter Kučera.
 
-<!--
-**peterkucera96/peterkucera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-I’m interested in **Embedded Development**, **Software Engineering**, **C/C++ programming**, and **Artificial Intelligence**.  
-Currently, I’m working on an **autonomous tank project** using **STM microcontrollers** and **Raspberry Pi**, where I plan to integrate **AI for autonomous navigation and object detection** 🤖🚀  
+I am a Data Analytics & AI enthusiast transitioning from embedded development to data-oriented work.  
+I enjoy working with data pipelines, analytics, automation, and machine learning — turning raw data into real value.  
+My focus is on **Python**, **SQL**, **data engineering**, and **AI/ML projects**.
 
 ---
 
-### 🌱 What I’m currently learning
-- Advanced C/C++ for embedded systems  
-- STM32 microcontrollers and ARM Cortex-M programming  
-- Raspberry Pi hardware/software integration  
-- Networking and communication protocols  
-- Basics of AI for robotics (computer vision, decision making)  
+### 🌱 Currently Learning  
+- Data analytics (Pandas, NumPy, data wrangling)  
+- SQL for analysis and data modeling  
+- Data engineering fundamentals (ETL, pipelines, databases)  
+- Machine learning & AI (scikit-learn, PyTorch basics)  
+- Cloud & automation (AWS, Docker)  
 
 ---
 
-### 🔭 Projects
-- Autonomous tank controlled with STM32 + Raspberry Pi + AI  
-- Experiments with embedded systems and robotics  
-- Networking & IoT mini-projects  
- 
+### 🔭 Projects  
+(coming soon — working on building my data portfolio 🚀)
+
+Planned projects:  
+- ETL pipeline in Python (API → SQL database)  
+- Data analytics dashboard (PowerBI / Python / Tableau)  
+- Machine learning classification model  
+- AI mini-projects (NLP, computer vision, ML APIs)  
+
 ---
 
-### 📫 How to reach me  
-
+### 📫 Contact  
 <p>
-  <a href="https://sk.linkedin.com/in/peter-kučera-a18519271?trk=people-guest_people_search-card" target="_blank">
+  <a href="https://sk.linkedin.com/in/peter-kučera-a18519271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:peter44488@gmail.com">
@@ -50,34 +38,17 @@ Currently, I’m working on an **autonomous tank project** using **STM microcont
 
 ---
 
-### 🛠️ Languages and Tools  
-
+### 🛠️ Skills & Tools  
 <p>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </a>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html">
-    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  </a>
-  <a href="https://www.raspberrypi.org/">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-
-⚡ Fun fact: I love combining hardware and software to create real-world solutions!
-
+⚡ Fun fact: I love turning data into insights and building smart automation with AI.
