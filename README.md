@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Peter Kučera.
 
-I am a Data Analytics & AI enthusiast transitioning from embedded development to data-oriented work.  
+I am a Data Analytics & AI enthusiast with a background in embedded development.  
 I enjoy working with data pipelines, analytics, automation, and machine learning — turning raw data into real value.  
 My focus is on **Python**, **SQL**, **data engineering**, and **AI/ML projects**.
 
@@ -18,12 +18,11 @@ My focus is on **Python**, **SQL**, **data engineering**, and **AI/ML projects**
 ### 🔭 Projects  
 (coming soon — working on building my data portfolio 🚀)
 
-Planned projects:  
-- ETL pipeline in Python (API → SQL database)  
-- Data analytics dashboard (PowerBI / Python / Tableau)  
+Planned projects:   
 - Machine learning classification model  
 - AI mini-projects (NLP, computer vision, ML APIs)  
-
+- Autonomous tank robot 🤖 (STM32 / Arduino, sensors, autonomous navigation)
+  
 ---
 
 ### 📫 Contact  
@@ -43,10 +42,10 @@ Planned projects:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
